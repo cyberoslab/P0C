@@ -18,3 +18,4 @@ For brevity, the documentation of this project is split into multiple files:
 - [`_docs/data-flow.md`](_docs/data-flow.md): A chart providing an overview over how bug data is downloaded, processed, stored, and how it is accessible.
 - [`_docs/deployment.md`](_docs/deployment.md): How to get this stack up and running.
 - [`_docs/queue-cli.md`](_docs/queue-cli.md): An overview over the `queue-cli` command, and what you can do with it.
+
